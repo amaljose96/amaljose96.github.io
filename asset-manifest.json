@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.5ff618e3.chunk.js",
-    "main.js.map": "/static/js/main.5ff618e3.chunk.js.map",
+    "main.js": "/static/js/main.7b7db057.chunk.js",
+    "main.js.map": "/static/js/main.7b7db057.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.44eb93ce.js",
     "runtime-main.js.map": "/static/js/runtime-main.44eb93ce.js.map",
     "static/js/2.5ed6701b.chunk.js": "/static/js/2.5ed6701b.chunk.js",
@@ -9,7 +9,7 @@
     "static/js/3.be2a613e.chunk.js": "/static/js/3.be2a613e.chunk.js",
     "static/js/3.be2a613e.chunk.js.map": "/static/js/3.be2a613e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7a1c3c5f64cc33c5a1b81735d50290be.js": "/precache-manifest.7a1c3c5f64cc33c5a1b81735d50290be.js",
+    "precache-manifest.6a913897c4a8ee6275e36a69acc1cc80.js": "/precache-manifest.6a913897c4a8ee6275e36a69acc1cc80.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.5ed6701b.chunk.js.LICENSE.txt": "/static/js/2.5ed6701b.chunk.js.LICENSE.txt",
     "static/media/Archer.ttf": "/static/media/Archer.2b50607c.ttf",
@@ -21,6 +21,6 @@
   "entrypoints": [
     "static/js/runtime-main.44eb93ce.js",
     "static/js/2.5ed6701b.chunk.js",
-    "static/js/main.5ff618e3.chunk.js"
+    "static/js/main.7b7db057.chunk.js"
   ]
 }
