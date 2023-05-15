@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.js": "/static/js/main.ca637e06.chunk.js",
-    "main.js.map": "/static/js/main.ca637e06.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.44eb93ce.js",
-    "runtime-main.js.map": "/static/js/runtime-main.44eb93ce.js.map",
-    "static/js/2.5ed6701b.chunk.js": "/static/js/2.5ed6701b.chunk.js",
-    "static/js/2.5ed6701b.chunk.js.map": "/static/js/2.5ed6701b.chunk.js.map",
-    "static/js/3.be2a613e.chunk.js": "/static/js/3.be2a613e.chunk.js",
-    "static/js/3.be2a613e.chunk.js.map": "/static/js/3.be2a613e.chunk.js.map",
+    "main.js": "/static/js/main.35c2e569.chunk.js",
+    "main.js.map": "/static/js/main.35c2e569.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ca3aa963.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ca3aa963.js.map",
+    "static/js/2.d90a6726.chunk.js": "/static/js/2.d90a6726.chunk.js",
+    "static/js/2.d90a6726.chunk.js.map": "/static/js/2.d90a6726.chunk.js.map",
+    "static/js/3.10db5e61.chunk.js": "/static/js/3.10db5e61.chunk.js",
+    "static/js/3.10db5e61.chunk.js.map": "/static/js/3.10db5e61.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2a1732a22ae7b9f920f953dcae44e55b.js": "/precache-manifest.2a1732a22ae7b9f920f953dcae44e55b.js",
+    "precache-manifest.a610b3ff569e3addda1e426ab0594049.js": "/precache-manifest.a610b3ff569e3addda1e426ab0594049.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.5ed6701b.chunk.js.LICENSE.txt": "/static/js/2.5ed6701b.chunk.js.LICENSE.txt",
+    "static/js/2.d90a6726.chunk.js.LICENSE.txt": "/static/js/2.d90a6726.chunk.js.LICENSE.txt",
     "static/media/Archer.ttf": "/static/media/Archer.2b50607c.ttf",
     "static/media/AvenirLight.ttf": "/static/media/AvenirLight.116af611.ttf",
     "static/media/Helvetica.ttf": "/static/media/Helvetica.63137a82.ttf",
-    "static/media/TescoModern.ttf": "/static/media/TescoModern.07eedf76.ttf",
-    "static/media/TildaGrande.ttf": "/static/media/TildaGrande.7de2ad6b.ttf"
+    "static/media/TescoModern.ttf": "/static/media/TescoModern.07eedf76.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.44eb93ce.js",
-    "static/js/2.5ed6701b.chunk.js",
-    "static/js/main.ca637e06.chunk.js"
+    "static/js/runtime-main.ca3aa963.js",
+    "static/js/2.d90a6726.chunk.js",
+    "static/js/main.35c2e569.chunk.js"
   ]
 }
