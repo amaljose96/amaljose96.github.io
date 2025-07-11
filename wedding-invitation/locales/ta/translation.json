@@ -1,14 +1,18 @@
 {
-  "Engagement photos": "முப்பட்டுப் புகைப்படங்கள்",
-  "Matrimony Church": "திருமண ஆலயம்",
-  "Reception location": "வரவேற்பு இடம்",
-  "Save the Date": "தேதியைச் சேமிக்கவும்",
-  "We cordially invite you to attend the wedding of": "நாங்கள் உங்களை அன்புடன் அழைக்கின்றோம் திருமணத்திற்கு",
-  "Marriage Ceremony": "திருமண விழா",
+  "Add to calendar": "நாட்காட்டியில் சேர்",
+  "Marriage": "திருமணம்",
   "Reception": "வரவேற்பு",
-  "RSVP Here": "இங்கே பங்கேற்கவும்",
-  "Google Maps": "கூகுள் மேப்ஸ்",
+  "Matrimony Church": "திருமண தேவாலயம்",
+  "Reception location": "வரவேற்பு இடம்",
+  "Engagement photos": "நிச்சயதார்த்த புகைப்படங்கள்",
+  "Save the Date": "தேதியைச் சேமி",
+  "We cordially invite you to attend the wedding of": "திருமணத்திற்கு வருகை தர உங்களை அன்புடன் அழைக்கிறோம்",
+  "Son of {{father}} and {{mother}}": "{{father}} மற்றும் {{mother}} அவர்களின் மகன்",
+  "Daughter of {{father}} and {{mother}}": "{{father}} மற்றும் {{mother}} அவர்களின் மகள்",
+  "Marriage Ceremony": "திருமண விழா",
+  "RSVP Here": "இங்கு RSVP செய்யவும்",
+  "Google Maps": "கூகிள் மேப்ஸ்",
   "Apple Maps": "ஆப்பிள் மேப்ஸ்",
-  "Light": "ஒளி",
-  "Dark": "இருண்டது"
+  "Light": "லைட்",
+  "Dark": "டார்க்"
 }

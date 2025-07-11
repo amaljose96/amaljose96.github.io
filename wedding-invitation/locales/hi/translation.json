@@ -1,14 +1,18 @@
 {
-  "Engagement photos": "मंगनी के फोटो",
-  "Matrimony Church": "विवाह समारोह चर्च",
-  "Reception location": "स्वागत स्थान",
+  "Add to calendar": "कैलेंडर में जोड़ें",
+  "Marriage": "विवाह",
+  "Reception": "रिसेप्शन",
+  "Matrimony Church": "विवाह चर्च",
+  "Reception location": "रिसेप्शन स्थान",
+  "Engagement photos": "सगाई की तस्वीरें",
   "Save the Date": "तारीख सुरक्षित करें",
-  "We cordially invite you to attend the wedding of": "हम आपको सादर निमंत्रण देते हैं विवाह में शामिल होने के लिए",
+  "We cordially invite you to attend the wedding of": "हम आपको विवाह में उपस्थित होने के लिए हार्दिक आमंत्रित करते हैं",
+  "Son of {{father}} and {{mother}}": "{{father}} और {{mother}} के पुत्र",
+  "Daughter of {{father}} and {{mother}}": "{{father}} और {{mother}} की पुत्री",
   "Marriage Ceremony": "विवाह समारोह",
-  "Reception": "स्वागत समारोह",
-  "RSVP Here": "यहाँ RSVP करें",
+  "RSVP Here": "यहां RSVP करें",
   "Google Maps": "गूगल मैप्स",
-  "Apple Maps": "ऐप्पल मैप्स",
-  "Light": "प्रकाश",
-  "Dark": "अंधेरा"
+  "Apple Maps": "एप्पल मैप्स",
+  "Light": "हल्का",
+  "Dark": "गहरा"
 }

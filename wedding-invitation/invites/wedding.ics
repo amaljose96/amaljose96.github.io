@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Amal and Melody Wedding Ceremony//EN
+BEGIN:VEVENT
+UID:amal-melody-wedding-ceremony-20251229-1@amaljose96.github.io
+DTSTAMP:20250711T051250Z
+DTSTART:20251229T043000Z
+DTEND:20251229T053000Z
+SUMMARY:Marriage Ceremony of Amal & Melody
+DESCRIPTION:We cordially invite you to attend the wedding ceremony of Amal Jose and Melody Vilas Pereira.
+LOCATION:St. George Latin Catholic Church, Pazhangad, Kumbalanghi, Kochi, Kerala, India - 682007
+GEO:9.863398584576116;76.29199138325686
+URL:https://amaljose96.github.io/wedding-invitation/
+PRIORITY:1
+CATEGORIES:Wedding,Reception,Celebration,Kochi
+CONTACT:Contact Amal at +1(213)573-9739 or +919744859241
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Amal & Melody's Wedding Ceremony is tomorrow!
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Amal & Melody's Wedding Ceremony starts in 1 hour!
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

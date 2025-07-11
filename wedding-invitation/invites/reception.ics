@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Amal and Melody Wedding Reception//EN
+BEGIN:VEVENT
+UID:a1b2c3d4-e5f6-7890-1234-56789@amaljose96.github.io
+DTSTAMP:20250711T051600Z
+DTSTART:20251229T063000Z
+DTEND:20251229T100000Z
+SUMMARY:Wedding Reception of Amal & Melody
+DESCRIPTION:Join us for the wedding reception of Amal Jose and Melody Vilas Pereira.
+LOCATION:Crowne Plaza, Kundanoor, Maradu, Kochi, Kerala, India - 682304
+GEO:9.934107125653512;76.31875565627128
+URL:https://amaljose96.github.io/wedding-invitation/
+PRIORITY:1
+CATEGORIES:Wedding,Reception,Celebration,Kochi
+CONTACT:Contact Amal at +1(213)573-9739 or +919744859241
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Amal & Melody's Wedding Reception is tomorrow!
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Amal & Melody's Wedding Reception starts in 1 hour!
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

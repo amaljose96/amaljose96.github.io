@@ -1,14 +1,18 @@
 {
-  "Engagement photos": "订婚照片",
-  "Matrimony Church": "婚礼教堂",
-  "Reception location": "招待地点",
-  "Save the Date": "请留意日期",
-  "We cordially invite you to attend the wedding of": "诚挚邀请您参加婚礼",
-  "Marriage Ceremony": "婚礼仪式",
+  "Add to calendar": "添加到日历",
+  "Marriage": "婚姻",
   "Reception": "招待会",
-  "RSVP Here": "请回复",
+  "Matrimony Church": "婚礼教堂",
+  "Reception location": "招待会地点",
+  "Engagement photos": "订婚照片",
+  "Save the Date": "保存日期",
+  "We cordially invite you to attend the wedding of": "我们诚挚地邀请您参加…的婚礼",
+  "Son of {{father}} and {{mother}}": "{{father}} 和 {{mother}} 之子",
+  "Daughter of {{father}} and {{mother}}": "{{father}} 和 {{mother}} 之女",
+  "Marriage Ceremony": "结婚典礼",
+  "RSVP Here": "请在此回复",
   "Google Maps": "谷歌地图",
   "Apple Maps": "苹果地图",
-  "Light": "明亮",
-  "Dark": "黑暗"
+  "Light": "浅色",
+  "Dark": "深色"
 }
