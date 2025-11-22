@@ -5,7 +5,6 @@
   "Matrimony Church": "Matrimony Church",
   "Reception location": "Reception location",
   "Engagement photos": "Engagement photos",
-  "Save the Date": "Save the Date",
   "We cordially invite you to attend the wedding of": "We cordially invite you to attend the wedding of",
   "Son of {{father}} and {{mother}}": "Son of {{father}} and {{mother}}",
   "Daughter of {{father}} and {{mother}}": "Daughter of {{father}} and {{mother}}",
@@ -13,6 +12,12 @@
   "RSVP Here": "RSVP Here",
   "Google Maps": "Google Maps",
   "Apple Maps": "Apple Maps",
-  "Light": "Light",
-  "Dark": "Dark"
+  "You are cordially invited to": "You are cordially invited to",
+  "Madhuramveppu Party": "Madhuramveppu Party",
+  "The wedding has begun!": "The wedding has begun!",
+  "Wedding countdown": "Wedding countdown",
+  "days": "days",
+  "hours": "hours",
+  "minutes": "minutes",
+  "seconds": "seconds"
 }
